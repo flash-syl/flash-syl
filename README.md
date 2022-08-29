@@ -4,7 +4,7 @@
 
 简单来说就是，FOC是一种对无刷电机的驱动控制方法，它可以让我们对无刷电机进行像素级控制，实现很多传统电机控制方法所无法达到的效果~
 
-![this is image](file:\\C:\Users\s50027046\AppData\Roaming\marktext\images\2022-08-03-16-32-01-image.png)
+![](file:///C:/Users/s50027046/AppData/Roaming/marktext/images/2022-08-03-16-32-01-image.png)
 
 # FOC控制过程：
 
